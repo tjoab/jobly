@@ -1,0 +1,15 @@
+regular:
+  enabled: true
+  url_path: "./urls.txt"
+  prompt_path: "./prompt.txt"
+  
+workday:
+  enabled: true
+  config_path: "./wd.json"
+  prompt_path: "./prompt_wd.txt"
+
+remove_senior: true
+
+save:
+  notion: true
+  local: true

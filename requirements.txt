@@ -1,0 +1,7 @@
+requests
+python-dotenv
+PyYAML
+google-genai
+tqdm
+beautifulsoup4
+pydantic

@@ -1,0 +1,5 @@
+Find all the data science and machine learning related roles in the following HTML.
+For each posting you find, return the job title, its link and location. 
+Only return matches that have their location set to somewhere in Canada.
+Only return matches that are directly related to data science, machine learning, data analytics, data engineering or statistics.
+Do not return anything if no matches are found.
